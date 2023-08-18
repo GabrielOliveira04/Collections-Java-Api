@@ -48,7 +48,7 @@ public class CarrinhoDeCompra {
         System.out.println("O número total de itens que temos é : " + carrinhoDeCompra.calcularValorTotal());
 
         carrinhoDeCompra.removerItem("Carrinho de brinquedo");
-        
+
         System.out.println("O número total de itens que temos é : " + carrinhoDeCompra.calcularValorTotal());
 
 
